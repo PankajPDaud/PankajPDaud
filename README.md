@@ -1,12 +1,12 @@
-👋 Hi, I'm Pankaj Daud — a Python Developer with 1 year of hands-on experience building scalable web apps using Django, FastAPI, and Streamlit.
+👋 Hi, I'm Pankaj Daud — a Software engineer with 2 year of hands-on experience building scalable web apps using Django, FastAPI, and Streamlit.
 🎓 B.Tech CSE (CGPA: 8.7) from Government College of Engineering, Chhatrapati Sambhajinagar.
 💻 Passionate about backend development, automation, and deployment on AWS.
-🚀 Always learning, solving problems, and contributing to open-source projects.
+🚀 Always learning, solving problems, and exploring to open-source projects.
 
 
 👨‍💻 About Me
 
-I'm Pankaj Daud, a Python Developer currently working at Vaibhav Vyapaar Pvt. Ltd., Bangalore, where I design and build backend systems, internal tools, and automation platforms.
+I'm Pankaj Daud, a Software engineer currently working at Vaibhav Vyapaar Pvt. Ltd., Bangalore, where I design and build backend systems, internal tools, and automation platforms.
 
 My work includes:
 
