@@ -1,40 +1,110 @@
-👋 Hi, I'm Pankaj Daud — a Software engineer with 2 year of hands-on experience building scalable web apps using Django, FastAPI, and Streamlit.
-🎓 B.Tech CSE (CGPA: 8.7) from Government College of Engineering, Chhatrapati Sambhajinagar.
-💻 Passionate about backend development, automation, and deployment on AWS.
-🚀 Always learning, solving problems, and exploring to open-source projects.
+# 👋 Hi, I'm Pankaj Daud
 
+### Software Engineer | Python Backend Developer | FinTech
 
-👨‍💻 About Me
+Software Engineer with **2+ years of experience** building scalable backend systems and automation platforms using Python, Django, FastAPI, and AWS.
 
-I'm Pankaj Daud, a Software engineer currently working at Vaibhav Vyapaar Pvt. Ltd., Bangalore, where I design and build backend systems, internal tools, and automation platforms.
+- 💻 Developing production backend services for **LoanFront**, a digital lending platform.
+- 🚀 Built a Communication Automation Platform for high-volume SMS, WhatsApp, Email, and Push Notifications.
+- ⚙️ Experienced in REST APIs, asynchronous processing with Celery and Redis, and database optimization.
+- ☁️ Skilled in deploying backend applications on AWS EC2 using Nginx and Gunicorn.
+- 🎓 B.Tech in Computer Science | CGPA: 8.7/10
+- 🧩 Solved 500+ coding problems across GeeksforGeeks and LeetCode.
 
-My work includes:
+---
 
-Developing Django and FastAPI-based backend systems for production.
+## 👨‍💻 About Me
 
-Creating Streamlit dashboards for real-time analytics.
+I'm a Software Engineer at **Vaibhav Vyapaar Pvt. Ltd. (LoanFront FinTech Product)**, Bangalore, where I develop and maintain backend services for production applications.
 
-Managing AWS EC2 deployments with Nginx, Gunicorn, and Docker.
+My work focuses on building reliable APIs, automating communication workflows, optimizing database performance, and deploying scalable backend applications.
 
-Writing clean, modular APIs and optimizing MySQL database schemas.
+### 🔧 What I Work On
 
-I love solving complex problems with simple, efficient code and constantly improving my skills in system design, automation, and cloud deployment.
+- Developing Django and FastAPI-based REST APIs for production systems.
+- Building communication workflows and campaign management for multiple notification channels.
+- Implementing asynchronous task processing using Celery and Redis.
+- Optimizing database performance through SQLAlchemy metadata caching.
+- Deploying and managing backend applications on AWS EC2 with Nginx and Gunicorn.
+- Exploring system design, networking fundamentals, and full-stack development with React.
 
-⚙️ Tech Stack
+---
 
-Languages: Python, SQL, JavaScript, C/C++
-Frameworks: Django, FastAPI, Streamlit
-Databases: MySQL, MongoDB
-Cloud & Tools: AWS EC2, Nginx, Gunicorn, Git, GitHub, Docker
+## ⚙️ Tech Stack
 
-🏆 Highlights
+**Languages**
+  
+Python · SQL · JavaScript · HTML · CSS · C/C++
 
-Built a Marketing Automation Platform improving campaign efficiency.
+**Backend & Frameworks**
 
-Developed multiple Streamlit dashboards for internal analytics.
+Django · FastAPI · REST APIs · SQLAlchemy · Celery
 
-Solved 400+ GeeksforGeeks and 100+ LeetCode problems.
+**Databases & Caching**
 
-Active learner exploring AI/ML, automation, and open-source projects.
+MySQL · MongoDB · Redis · Amazon DocumentDB · Amazon Redshift
 
-📫 Reach me at: pankajdaud3534@gmail.com
+**Cloud & DevOps**
+
+AWS EC2 · AWS Lambda · Amazon S3 · Docker · Nginx · Gunicorn · Linux · Git
+
+**Networking & Core Concepts**
+
+TCP/IP · DNS · HTTP/HTTPS · SSL/TLS · Load Balancing · VPC Fundamentals · OOP · DSA · System Design
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Communication Automation Platform
+
+A high-volume communication platform for delivering transactional and marketing messages across multiple channels.
+
+- Developed REST APIs using FastAPI.
+- Implemented asynchronous background processing using Celery and Redis.
+- Designed communication workflows, campaign management, and message orchestration.
+- Built job and task runtime tracking to monitor execution status and performance.
+
+**Tech:** Python, FastAPI, Celery, Redis, REST APIs
+
+### 2. Business Rule Engine
+
+A full-stack application focused on configurable business rules and workflow automation.
+
+- Building a React frontend with a FastAPI backend.
+- Designing flexible rule management for dynamic workflow execution.
+- Deploying backend services on AWS using Nginx and Gunicorn.
+
+**Tech:** React, FastAPI, Python, AWS, Nginx, Gunicorn
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Received the **Special Contribution Award (2026)** for contributions to the development and implementation of the Communication Automation Platform.
+- 💡 Solved **500+ coding problems** across GeeksforGeeks and LeetCode.
+- 📈 Contributed to production backend systems serving 10K–12K daily active users.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science**  
+Government College of Engineering, Chhatrapati Sambhajinagar  
+CGPA: 8.7/10 | 2021–2024
+
+**Diploma in Electrical Engineering**  
+Government Polytechnic, Chhatrapati Sambhajinagar  
+95.94% | 2018–2021
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [pankajdaud3534@gmail.com](mailto:pankajdaud3534@gmail.com)
+- 💼 LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+⭐ *Always learning, building reliable software, and exploring better ways to solve engineering problems.*
