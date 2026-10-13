@@ -102,8 +102,8 @@ Government Polytechnic, Chhatrapati Sambhajinagar
 ## 📫 Connect With Me
 
 - 📧 Email: [pankajdaud3534@gmail.com](mailto:pankajdaud3534@gmail.com)
-- 💼 LinkedIn: [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/pankaj-daud-aba55117a)
+- 🐙 GitHub: [Explore my repositories](https://github.com/PankajPDaud)
 
 ---
 
