@@ -15,7 +15,7 @@ Software Engineer with **2+ years of experience** building scalable backend syst
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer at **Vaibhav Vyapaar Pvt. Ltd. (LoanFront FinTech Product)**, Bangalore, where I develop and maintain backend services for production applications.
+I'm a Software Engineer at **Vaibhav Vyapaar Ltd. (LoanFront FinTech Product)**, Bangalore, where I develop and maintain backend services for production applications.
 
 My work focuses on building reliable APIs, automating communication workflows, optimizing database performance, and deploying scalable backend applications.
 
